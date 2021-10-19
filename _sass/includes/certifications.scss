@@ -1,12 +1,13 @@
-.experiance {
+.certifications {
     .title {
         @include header;
     }
-    .experience-item {
-        .role {
+    .certification-item {
+        margin-bottom: 20px;
+        .name {
             @include sub-header;
         }
-        .company {
+        .organization {
             @include body-text;
             font-weight: bold;
             .time {
@@ -16,11 +17,6 @@
             }
         }
         .details {
-            @include body-text;
-            font-style: italic;
-            margin-bottom: -15px;
-        }
-        .technologies {
             @include body-text;
         }
     }

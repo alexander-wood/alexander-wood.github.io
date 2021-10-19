@@ -1,108 +1,101 @@
-name: John Doe
+name: Alexander Wood
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
+  email: alex@nderwood.me
+  github: alexander-wood
+  linkedin:
   phone: 
   gitlab: 
   twitter: 
 
-languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
-
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
+  - degree: BA in Philosophy
+    time: 
+    university: St. John's College
 
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: AA in Political Science
+    time:
+    university: Montgomery College
 
 skills:
-  - category: Backend
+  - category: Programming Languages
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Ruby
+      - Javascript
+      - SQL
+      - Python
+  - category: Markup Languages
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Markdown
+      - YAML
+      - TOML
+      - JSON
+      - HTML
+  - category: Tools
     skill:
       - Docker
-      - Kubernetes 
+      - Git
+      - Static Site Generators
+      - JIRA
+      - Confluence
+  - category: Methodologies
+    skill:
+      - Agile
+      - Scrum
+  - category: Professional Interests
+    skill:
+      - Cryptocurrency
+      - Machine Learning
+      - Cloud Computing
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Technology professional with 6+ years of experience in software engineering and consulting looking to leverage
+  my technical expertise, teaching experience, and passion for writing as a Technical Writer. Proven track record
+  of collaborating with technical SMEs, quickly and independently getting up to speed with complex technologies, 
+  and communicating with audiences of all backgrounds and ages. 
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+  - role: Consulting Engineer
+    time: 2018-Present
+    company: Alexander Wood Consulting
+    bullet_points:  
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+      - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
-
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+  - role: Software Engineer
+    time: 2018
+    company: Kongregate
+    bullet_points:  
+      - Developed software features in a CI/CD environment using Jenkins and CircleCI. 
+      - Fixed 3+ bugs in onboarding documentation for new engineers.
+  
+  - role: Software Engineer
+    time: 2014-2018
+    company: DevelopmentNow
+    bullet_points:
+      - Wrote, owned, and maintained API reference documentation and how-to guides for 12 software projects, reducing ramp-up time by over 50%. Commended by the CEO for impact.
+      - Created a new employee onboarding guide documenting engineering practices and policies, reducing average onboarding time by 4 hours.
+      - Wrote, researched, and delivered a 30 minute presentation on cryptography to an audience of 20 technical and non-technical people.
+      - Founded, managed, and wrote curriculum for company internship program, giving 16 code school students their first job in technology.
+      - Wrote and/or edited 6 company blog posts.
+      - Developed code for over 12 projects, including APIs written in NodeJS and Ruby on Rails.
+  
+  - role: English Teacher
+    time: 2013
+    company: Ministry of Education, South Korea
+    bullet_points:
+      - Designed and implemented daily lesson plans for classroom of 30 Korean third-, fifth-, and sixth- grade classes. 
+      - Fostered student curiosity and interest in learning English through hands-on activities, exercises, and games.
+      - Awarded prize by Ministry of Education officials for sample lesson plan, "Fact or Opinion?", in province-wide contest.
 
 # Volunteering
-volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+certifications:
+  - time: Lapsed July 2021
+    name: Certified Associate in Project Management (CAPM)
+    company: PMI

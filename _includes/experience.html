@@ -12,7 +12,11 @@
                 <span class="time">{{exp.time}}</span>
             </div> 
             <div class="details">{{exp.details}}</div>
-            <p class="technologies">Technologies Used: {{exp.technologies_used}}</p>
+            <ul>
+                {% for bp in exp.bullet_points %}
+                    <li class="technologies">{{bp}}</li>
+                {% endfor %}
+            </ul>
         </div>
        
     {% endfor %}

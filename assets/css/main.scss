@@ -1,5 +1,7 @@
 ---
 ---
+@charset 'UTF-8';
+
 @import "base";
 @import "print";
 @import "responsive";
@@ -13,5 +15,6 @@
 @import "includes/skills";
 @import "includes/experience";
 @import "includes/publications";
-@import "includes/certifications";
 @import "includes/projects";
+@import "includes/volunteering";
+@import "includes/certifications";
